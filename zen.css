@@ -1,0 +1,66 @@
+
+#css-zen-garden {
+                    text-align: center;
+                    margin: 0%;
+                    padding: 0%;                
+                }
+
+a {color: black;
+    text-decoration: underline;}
+
+div{
+    margin: 0%;
+}
+
+h1 {
+    font-size: 2em; 
+    color: rgb(130, 226, 34);
+    margin: 201px;
+    margin-top: 0%;
+    margin-bottom: 0px;
+    padding: 20px;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: red;
+}
+
+.banner {}
+
+.intro {background-color: blue;}
+.summary  { font-family: 'arial';}
+.preamble{
+    background-color: grey
+}
+
+.explanation {
+    background-color: olive;
+}
+
+.participation{
+    background-color: orange;
+}
+.benefits{
+    background-color: navy
+}
+
+.requirements{
+    background-color: tomato
+}
+
+.design-selection{
+    background-color: gold;
+}
+
+.select {
+    margin: 0%;
+}
+
+footer {
+    background-color: darkorchid;
+}
+
+.sidebar {
+    margin: 0%;
+    text-align: left;
+    background-color: darkgreen
+}
